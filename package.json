@@ -2,10 +2,10 @@
   "name": "test",
   "version": "0.0.1",
   "description": "test",
-  "main": "bot.js",
+  "main": "music.js",
   "scripts": {
-    "test": "node bot.js",
-    "start": "node bot.js"
+    "test": "node music.js",
+    "start": "node music.js"
   },
   "author": "test",
   "license": "MIT",
